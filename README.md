@@ -13,9 +13,8 @@
 - [rust-low-fullstack](https://github.com/LutiDrist/rust-low-fullstack) — Полнофункциональный проект на Rust.
 
 ## Связаться со мной 📫
-- 📧 Email: [твой-email@example.com]
-- 🐦 Twitter: [твой-твиттер]
-- 💼 LinkedIn: [твой-linkedin]
+- 📧 Email: dmitry.glukhov1304@gmail.com
+- 🐦 Twitter / X: https://x.com/dmitrij_code
 
 ## Интересный факт обо мне 🎉
 Я обожаю кофе и могу писать код всю ночь напролёт! ☕
